@@ -5,7 +5,7 @@
 * [Run](#run)
 
 ## General info
-This is a simple data analysis and visualization project using python. The dataset used is an online course reviews dataset. The jupyter notebooks are used for data exploration.
+This is a data analysis and visualization project using python. The dataset used is an online course reviews dataset.
 	
 ## Technologies
 Project is created with:
